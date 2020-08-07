@@ -1,7 +1,7 @@
-## I create Websites. Sometime Apps.
+## I create Websites :computer:. Sometime Apps :iphone:.
 > I love React
 
-###### Resume [Github](https://google.com)
+###### [Resume](https://google.com)
 
 <!--
 **suryakandikonda/suryakandikonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
