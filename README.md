@@ -1,5 +1,5 @@
-## I create Websites :computer:. Sometime Apps :iphone:.
-> I love React
+## I develop Websites :computer:. Sometimes apps :iphone:.
+- I love React
 
 ###### [Resume](https://google.com)
 
